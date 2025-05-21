@@ -1,6 +1,7 @@
 # DC6
 Data Challenge 6 - Git Group work
 1.
+
 2. What is Data ?
 
 Data is a collection of information gathered by observations , research , measurements / analysis. It can be organized through graphs, charts or tables, consisting facts , numbers, descriptions or figures. 
