@@ -1,8 +1,3 @@
 Member 1 Bio:
-<<<<<<< HEAD
 Member 2 Bio:
 Member 3 Bio: Ibrahima Diallo, Marcy Lab Data Analytics Fellow
-=======
-Member 2 Bio: Itzel , 21 , I like ice cream , I like aliens , I like ocean. 
-Member 3 Bio:
->>>>>>> ad505b66f9aa91a01b87bb0f0bdefdcfe9cf212e
